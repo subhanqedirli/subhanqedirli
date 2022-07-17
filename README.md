@@ -2,7 +2,7 @@
 ### 
 ![banner](https://i.imgur.com/zN7kjcp.png)
 ### 
-### I am beginner software developer and student. I love opensource and Linux :penguin:  . I currently work on [PacPERRO Linux](https://pacperro-os.github.io/) project.
+### I am beginner software developer and student. I love opensource and Linux :penguin:  . I currently work on [PacPERRO Linux](https://github.com/PacPERRO-OS) project.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/subhanqedirli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhanqedirli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhanqedirli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/QedirliSubhan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCCyrdKjOWMQFu4MpAuD9ajg) 
 
