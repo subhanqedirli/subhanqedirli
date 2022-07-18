@@ -16,3 +16,4 @@
 ##### 🧩   [Açık kanyak yazılımlar ve Dağıtık teknoloji](https://write.as/linux-is-not-unix/acik-kanyak-yazilimlar-ve-dagitik-teknoloji)
 ##### :octocat:   [Github site yapımı](https://write.as/linux-is-not-unix/github-site-yapimi)
 ##### 🌐   [Ungoogled Chromium uzantı kurma ](https://write.as/linux-is-not-unix/ungoogled-chromium-uzanti-kurma)
+##### :sake: [Bottles kullanarak Linux'ta Windows Uygulamaları ve oyunları çalıştırın](https://write.as/linux-is-not-unix/bottles-kullanarak-linuxta-windows-uygulamalari-ve-oyunlari-calistirin)
